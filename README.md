@@ -3,4 +3,4 @@
 [![Matrix](https://img.shields.io/twitter/url?label=&logo=Matrix&style=social&url=https://matrix.to/#/@damnorangecat:matrix.org)](https://matrix.to/#/@damnorangecat:matrix.org)
 [![Discord](https://img.shields.io/twitter/url?label=&logo=Discord&style=social&url=https://discordapp.com/users/144097020368519169)](https://discordapp.com/users/144097020368519169)
 
-0-trust technologies enjoyer and student.
+Zero trust technologies enjoyer and student.
