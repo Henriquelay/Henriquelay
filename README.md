@@ -3,4 +3,4 @@
 [![Matrix](https://img.shields.io/twitter/url?label=&logo=Matrix&style=social&url=https://matrix.to/#/@damnorangecat:matrix.org)](https://matrix.to/#/@damnorangecat:matrix.org)
 [![Discord](https://img.shields.io/twitter/url?label=&logo=Discord&style=social&url=https://discordapp.com/users/144097020368519169)](https://discordapp.com/users/144097020368519169)
 
-<!--![Divider](https://img.shields.io/badge/-|-333) ![French level](https://img.shields.io/badge/PT--BR-N-brightgreen) -->
+0-trust technologies enjoyer and student.
