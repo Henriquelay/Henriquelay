@@ -25,7 +25,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          // committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: America/Sao_Paulo
           repositories_forks: no
           plugin_introduction: yes
