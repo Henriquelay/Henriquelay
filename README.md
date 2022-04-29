@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
 [<img align="center" src="https://github.com/Henriquelay/Henriquelay/actions/workflows/metrics.yml/badge.svg" alt="Metrics CI" height="18">](https://github.com/Henriquelay/Henriquelay/actions/workflows/metrics.yml)
