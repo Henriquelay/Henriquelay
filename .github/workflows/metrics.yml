@@ -24,6 +24,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN  }}
+          output_action: gist
+          committer_gist: ${{ secrets.METRICS_TOKEN }}
           #config_timezone: America/Sao_Paulo
           #repositories_forks: no
           #plugin_introduction: yes
