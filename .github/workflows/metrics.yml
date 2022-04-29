@@ -22,7 +22,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN  }}
           base: repositories, metadata
-          config_timezone: UTC
+          config_timezone: America/Sao_Paulo
           #config_display: columns
           #repositories_forks: no
           plugin_introduction: no
