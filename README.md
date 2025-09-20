@@ -1,6 +1,7 @@
-![Metrics](/github-metrics.svg)
+I like building stuff. I wish I had more time to.
 
+I'm not a huge fan of web, but I can do it fine. I love building "complicated" applications like compilers and crunchy stuff.
 
-[<img align="center" src="https://github.com/Henriquelay/Henriquelay/actions/workflows/metrics.yml/badge.svg" alt="Metrics CI" height="18">](https://github.com/Henriquelay/Henriquelay/actions/workflows/metrics.yml)
-[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram URL" height="24">](https://t.me/Henriquelay)
-[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow URL" height="24">](https://stackoverflow.com/users/12921102/henriquelay)
+My next project is gonna be something math related, like a Pi or Fibonacci calculator. Maybe a primes generator.
+
+I'm also eyeing making an interpreter for ISO Prolog. Or maybe a simple game with Bevy.
